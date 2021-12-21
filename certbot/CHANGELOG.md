@@ -10,6 +10,7 @@ Certbot adheres to [Semantic Versioning](https://semver.org/).
 
 ### Changed
 
+* Remove the limits for IP address(Only client-side, Let's Encrypt doesn't support it yet).
 *
 
 ### Fixed
